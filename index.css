@@ -11,3 +11,12 @@ p{
     color: brown;
     background-color: aqua;
 }
+#headline {
+    text-align: start;
+    color: blueviolet;
+    background-color: aqua;
+}
+
+ul{
+    color: blueviolet;
+}
